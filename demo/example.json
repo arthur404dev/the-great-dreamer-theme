@@ -1,0 +1,8 @@
+{
+  "Hello Dreamer": "This is a .json File",
+  "this": "that",
+  "number": 188,
+  "arr": ["this", "is", "an", "arr"],
+  "big": "dreamer",
+  "dict": { "this": "is", "a": "dict" }
+}
