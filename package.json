@@ -6,9 +6,36 @@
   "engines": {
     "vscode": "^1.47.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurdiegoo/the-great-dreamer-theme"
+  },
+  "scripts": {
+    "deploy": "vsce publish"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Love Craft",
+    "lovecraft",
+    "Chtullu",
+    "Purple Theme",
+    "Great Dreamer",
+    "Acessible Theme",
+    "Night Theme"
+  ],
   "categories": [
     "Themes"
   ],
+  "icon": "assets/images/dreamer-logo.png",
+  "galleryBanner": {
+    "color": "#8088FF",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/arthurdiegoo/the-great-dreamer-theme/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/arthurdiegoo/the-great-dreamer-theme/issues"
+  },
   "contributes": {
     "themes": [
       {
