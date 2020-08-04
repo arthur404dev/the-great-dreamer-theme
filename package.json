@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.47.0"
   },
+  "publisher:": "arthurdiegoo",
   "repository": {
     "type": "git",
     "url": "https://github.com/arthurdiegoo/the-great-dreamer-theme"
