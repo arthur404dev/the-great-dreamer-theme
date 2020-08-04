@@ -1,0 +1,21 @@
+{
+  "name": "great-dreamer",
+  "displayName": "great-dreamer",
+  "description": "A Dark Theme for the Dreamers out there - Accents of Neon colors with high Cyberpunk influence",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Great Dreamer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The Great Dreamer-color-theme.json"
+      }
+    ]
+  }
+}
