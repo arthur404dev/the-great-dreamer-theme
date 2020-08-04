@@ -1,6 +1,6 @@
 # The Great Dreamer :octopus:
 
-<p align="center"><img src="assets/vectors/Octopus.svg" width="100" heigth="100"></p>
+<p align="center"><img src="assets/images/dreamer-logo.png" width="100" heigth="100"></p>
 
 A Visual Studio Code theme for the **Great Dreamers** all over the place, best suited for intensive use-cases specially during night. The color palette and overall theme is heavily inspired by Lovecraft Myths and overall feel.
 

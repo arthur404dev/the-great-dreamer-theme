@@ -1,12 +1,12 @@
 {
   "name": "great-dreamer",
-  "displayName": "great-dreamer",
+  "displayName": "The Great Dreamer",
   "description": "A Dark Theme for the Dreamers out there - Accents of Neon colors with high Cyberpunk influence",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.47.0"
   },
-  "publisher:": "arthurdiegoo",
+  "publisher": "arthurdiegoo",
   "repository": {
     "type": "git",
     "url": "https://github.com/arthurdiegoo/the-great-dreamer-theme"
