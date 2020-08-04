@@ -230,7 +230,11 @@
         "source.json meta.structure.array.json constant.language.json",
         "entity.name.tag.html",
         "entity.name.tag.tsx",
-        "support.type"
+        "entity.name.tag.jsx",
+        "entity.name.tag.open.jsx",
+        "entity.name.tag.close.jsx",
+        "support.type",
+        "support.class.component.open.jsx"
       ],
       "settings": {
         "foreground": "#93DDFB"
