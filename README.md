@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "great-dreamer"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# The Great Dreamer :octopus:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A Visual Studio Code theme for the **Great Dreamers** all over the place, best suited for intensive use-cases specially during night. The color palette and overall theme is heavily inspired by Lovecraft Myths and overall feel.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Feel free to contribute and help to improve the language coverage of the Theme!
 
-**Enjoy!**
+## The Great Dreamer Classic
+
+![TypeScript Example](../great-dreamer/assets/images/typescript-example.png)
+![Great Dreamer with Sidebar](../great-dreamer/assets/images/javascript-example.png)
+
+# Installation
+
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `great dreamer`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **The Great Dreamer**
