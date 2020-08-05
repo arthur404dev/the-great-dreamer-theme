@@ -2,7 +2,7 @@
   "name": "great-dreamer",
   "displayName": "The Great Dreamer",
   "description": "A Dark Theme for the Dreamers out there - Accents of Neon colors with high Cyberpunk influence",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.47.0"
   },
@@ -30,7 +30,7 @@
   ],
   "icon": "assets/images/dreamer-logo.png",
   "galleryBanner": {
-    "color": "#8088FF",
+    "color": "#211c26",
     "theme": "dark"
   },
   "homepage": "https://github.com/arthurdiegoo/the-great-dreamer-theme/blob/master/README.md",
