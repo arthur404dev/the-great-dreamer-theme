@@ -28,6 +28,6 @@ Feel free to contribute and help to improve the language coverage of the Theme!
 
 Alternative Download Option:
 
-1. Access ![The Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=arthurdiegoo.great-dreamer)
+1. Access [The Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=arthurdiegoo.great-dreamer)
 2. Click on **Install** to install it
 3. Follow steps 6 and 7 from past guide
