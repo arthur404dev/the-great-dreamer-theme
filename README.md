@@ -1,5 +1,10 @@
 # The Great Dreamer :octopus:
 
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/arthurdiegoo.great-dreamer.svg)](https://marketplace.visualstudio.com/items?itemName=arthurdiegoo.great-dreamer)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/arthurdiegoo.great-dreamer.svg)](https://marketplace.visualstudio.com/items?itemName=arthurdiegoo.great-dreamer)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/arthurdiegoo.great-dreamer.svg)](https://marketplace.visualstudio.com/items?itemName=arthurdiegoo.great-dreamer)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/arthurdiegoo.great-dreamer.svg)](https://marketplace.visualstudio.com/items?itemName=arthurdiegoo.great-dreamer)
+
 <p align="center"><img src="assets/images/dreamer-logo.png" width="100" heigth="100"></p>
 
 A Visual Studio Code theme for the **Great Dreamers** all over the place, best suited for intensive use-cases specially during night. The color palette and overall theme is heavily inspired by Lovecraft Myths and overall feel.
