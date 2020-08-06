@@ -173,7 +173,8 @@
         "entity.other.attribute-name",
         "markup.quote",
         "source.python variable.parameter",
-        "entity.name.function"
+        "entity.name.function",
+        "support.function"
       ],
       "settings": {
         "foreground": "#DDA2F6"
@@ -196,7 +197,8 @@
       "scope": [
         "variable.language.this",
         "storage.modifier.ts",
-        "entity.name.tag.css"
+        "entity.name.tag.css",
+        "source.ruby keyword.other.special-method.ruby"
       ],
       "settings": {
         "foreground": "#C74EB7"
@@ -224,7 +226,6 @@
         "constant.other.color",
         "constant.other.symbol",
         "string.regexp",
-        "support.function",
         "source.ruby constant.other.symbol punctuation",
         "source.json meta.structure.dictionary.json constant.language.json",
         "source.json meta.structure.array.json constant.language.json",

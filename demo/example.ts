@@ -9,7 +9,7 @@ class Human {
 }
 
 class Hero extends Human {
-  name: string;
+  private name: string;
   nationality: string;
 
   constructor(who, from) {
