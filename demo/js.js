@@ -1,4 +1,5 @@
 'use strict'
+// This is also applicable for typescript
 class Sale {
   constructor(price) {
     ;[this.decoratorsList, this.price] = [[], price]
@@ -53,21 +54,4 @@ if (true) { }
 
 while (true) { }
 
-switch (2) {
-  case 2:
-    break;
-  default:
-    break;
-}
 
-class EditFishForm extends Component {
-  static propTypes = {
-    updateFish: PropTypes.func,
-    deleteFish: PropTypes.func,
-    index: PropTypes.string,
-    fish: PropTypes.shape({
-      image: PropTypes.string,
-      name: PropTypes.string.isRequired
-    })
-  }
-}
