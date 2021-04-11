@@ -43,6 +43,11 @@
         "label": "The Great Dreamer",
         "uiTheme": "vs-dark",
         "path": "./themes/The Great Dreamer-color-theme.json"
+      },
+      {
+        "label": "The Great Sleeper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The Great Sleeper-color-theme.json"
       }
     ]
   }
