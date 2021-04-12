@@ -11,10 +11,15 @@ A Visual Studio Code theme for the **Great Dreamers** all over the place, best s
 
 Feel free to contribute and help to improve the language coverage of the Theme!
 
-## The Great Dreamer Classic
+## The Great Dreamer
 
-![TypeScript Example](assets/images/typescript-example.png)
-![Great Dreamer with Sidebar](assets/images/javascript-example.png)
+![Great Dreamer TypeScript Example](assets/images/typescript-dreamer.png)
+![Great Dreamer JavaScript Example](assets/images/javascript-dreamer.png)
+
+## The Great Sleeper
+
+![Great Sleeper TypeScript Example](assets/images/typescript-sleeper.png)
+![Great Sleeper Javascript Example](assets/images/javascript-sleeper.png)
 
 # Installation
 
