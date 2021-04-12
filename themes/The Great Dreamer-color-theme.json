@@ -2,12 +2,42 @@
   "name": "The Great Sleeper",
   "type": "dark",
   "colors": {
+    // -> Palette:
+    // Main BG Color #211c26
+    // Main Highlight Color #705fbd
+    // Main Contrast BG #483b57
+    // -> Sections:
+    // ActivityBar
+    "activityBar.activeBorder": "#d8c6ec",
     "activityBar.background": "#211c26",
+    "activityBar.dropBorder": "#d8c6ec",
+    "activityBar.foreground": "#d8c6ec",
+    "activityBar.inactiveForeground": "#483b57",
+    "activityBarBadge.background": "#705fbd",
+    "activityBarBadge.foreground": "#ffffff",
+    // Badge
+    "badge.background": "#705fbd",
+    "badge.foreground": "#ffffff",
+    // Breadcrumb
+    "breadcrumb.activeSelectionForeground": "#9AEFEA",
+    "breadcrumb.background": "#1d1922",
+    "breadcrumb.focusForeground": "#e0e0e0",
+    "breadcrumb.foreground": "#d8c6ec",
+    "breadcrumbPicker.background": "#211c26",
+    // Buttons
+    "button.background": "#705fbd",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#9472c4",
+    // Diff
     "diffEditor.insertedTextBackground": "#5d43d010",
     "diffEditor.removedTextBackground": "#e052521a",
+    // Editor
     "dropdown.background": "#211c26",
     "editor.background": "#1d1a24",
+    "editor.findMatchBackground": "#494949",
+    "editor.findMatchHighlightBackground": "#b5a1ff4d",
     "editor.foreground": "#b9bed5",
+    "editor.inactiveSelectionBackground": "#4530582f",
     "editor.lineHighlightBackground": "#222530",
     "editor.selectionBackground": "#313343",
     "editorCursor.foreground": "#f8f8f0",
@@ -16,24 +46,39 @@
     "editorHoverWidget.background": "#211c26",
     "editorHoverWidget.border": "#3a3446",
     "editorIndentGuide.background": "#473b64",
+    "editorSuggestWidget.background": "#211c26",
+    "editorSuggestWidget.border": "#3e3746",
+    "editorSuggestWidget.highlightForeground": "#9AEFEA",
     "editorWhitespace.foreground": "#312d3a",
     "editorWidget.background": "#211c26",
+    "focusBorder": "#705fbd",
+    // Git
+    "gitDecoration.addedResourceForeground": "#72f1b8cc",
+    "gitDecoration.deletedResourceForeground": "#fe4450",
+    "gitDecoration.ignoredResourceForeground": "#8a7c9c",
+    "gitDecoration.modifiedResourceForeground": "#af7eff",
+    "gitDecoration.untrackedResourceForeground": "#5eff81ee",
     "input.background": "#211c26",
+    // Lists
     "list.activeSelectionBackground": "#3a3446",
     "list.focusBackground": "#3a3446",
     "list.hoverBackground": "#211c26",
     "list.inactiveSelectionBackground": "#3a3446",
+    // Sidebar
     "sideBar.background": "#211c26",
     "sideBarSectionHeader.background": "#211c26",
+    // Statusbar
     "statusBar.background": "#211c26",
     "statusBar.debuggingBackground": "#230000",
-    "statusBar.noFolderBorder": "#211c26",
     "statusBar.foreground": "#634f66",
-    "tab.border": "#211c26",
+    "statusBar.noFolderBorder": "#211c26",
+    // Tabs
     "tab.activeBorder": "#705fbd",
     "tab.activeBorderTop": "#9aefe99c",
+    "tab.border": "#211c26",
     "tab.inactiveBackground": "#211c26",
     "tab.inactiveForeground": "#65737f",
+    // Terminal
     "terminal.ansiBlack": "#21222c",
     "terminal.ansiBlue": "#bd93f9",
     "terminal.ansiBrightBlack": "#6272a4",
@@ -53,36 +98,9 @@
     "terminal.foreground": "#f8f8f2",
     "terminalCursor.background": "#c0c5ce",
     "terminalCursor.foreground": "#c0c5ce",
+    // Title
     "titleBar.activeBackground": "#211c26",
-    "titleBar.inactiveBackground": "#211c26",
-    "activityBar.activeBorder": "#d8c6ec",
-    "activityBar.dropBorder": "#d8c6ec",
-    "activityBar.foreground": "#d8c6ec",
-    "activityBar.inactiveForeground": "#483b57",
-    "activityBarBadge.background": "#705fbd",
-    "activityBarBadge.foreground": "#ffffff",
-    "badge.background": "#705fbd",
-    "badge.foreground": "#ffffff",
-    "breadcrumb.activeSelectionForeground": "#9AEFEA",
-    "breadcrumb.background": "#1d1922",
-    "breadcrumb.focusForeground": "#e0e0e0",
-    "breadcrumb.foreground": "#d8c6ec",
-    "breadcrumbPicker.background": "#211c26",
-    "button.background": "#705fbd",
-    "button.foreground": "#ffffff",
-    "button.hoverBackground": "#9472c4",
-    "editor.findMatchBackground": "#494949",
-    "editor.findMatchHighlightBackground": "#b5a1ff4d",
-    "editor.inactiveSelectionBackground": "#4530582f",
-    "editorSuggestWidget.background": "#211c26",
-    "editorSuggestWidget.border": "#3e3746",
-    "editorSuggestWidget.highlightForeground": "#9AEFEA",
-    "focusBorder": "#705fbd",
-    "gitDecoration.addedResourceForeground": "#72f1b8cc",
-    "gitDecoration.deletedResourceForeground": "#fe4450",
-    "gitDecoration.ignoredResourceForeground": "#8a7c9c",
-    "gitDecoration.modifiedResourceForeground": "#af7eff",
-    "gitDecoration.untrackedResourceForeground": "#5eff81ee"
+    "titleBar.inactiveBackground": "#211c26"
   },
   "tokenColors": [
     {

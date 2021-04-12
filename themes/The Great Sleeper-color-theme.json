@@ -5,6 +5,7 @@
     // -> Palette:
     // Main BG Color #181b28
     // Main Highlight Color #705fbd
+    // Main Contrast BG #2a3049
     // -> Sections:
     // ActivityBar
     "activityBar.activeBorder": "#705fbd",
