@@ -262,6 +262,8 @@
         "punctuation.definition.tag.end.html",
         "punctuation.definition.tag.begin.js.jsx",
         "punctuation.definition.tag.begin.js",
+        "punctuation.definition.tag.end.js.jsx",
+        "punctuation.definition.tag.end.js",
         "meta.tag.jsx",
         "support.type",
         "support.class.component.open.jsx"

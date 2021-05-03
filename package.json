@@ -2,7 +2,7 @@
   "name": "great-dreamer",
   "displayName": "The Great Dreamer",
   "description": "A Dark Theme for the Dreamers out there - Accents of Neon colors with high Cyberpunk influence",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.47.0"
   },
