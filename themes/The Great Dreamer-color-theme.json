@@ -249,10 +249,16 @@
         "entity.name.tag.html",
         "entity.name.tag.tsx",
         "entity.name.tag.jsx",
+        "entity.name.tag.js.jsx",
+        "entity.name.tag.js",
         "entity.name.tag.open.jsx",
         "entity.name.tag.close.jsx",
-        "support.type",
-        "support.class.component.open.jsx"
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.definition.tag.begin.js.jsx",
+        "punctuation.definition.tag.begin.js",
+        "meta.tag.jsx",
+        "support.type"
       ],
       "settings": {
         "foreground": "#93DDFB"
@@ -262,6 +268,16 @@
       "scope": ["variable.interpolation", "punctuation.section.embedded"],
       "settings": {
         "foreground": "#4D8ACB"
+      }
+    },
+    {
+      "scope": [
+        "support.class.component.open.jsx",
+        "support.class.component.close.jsx",
+        "support.class.component.js.jsx"
+      ],
+      "settings": {
+        "foreground": "#b293fb"
       }
     },
     {
